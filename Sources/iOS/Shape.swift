@@ -28,6 +28,8 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+ import Foundation
+
 @objc(ShapePreset)
 public enum ShapePreset: Int {
   case none
